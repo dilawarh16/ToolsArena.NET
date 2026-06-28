@@ -28,6 +28,28 @@ ToolsArena provides a comprehensive library of **100+ online calculators** acros
 
 **Free for everyone.** No accounts, no subscriptions, no hidden fees. All tools are completely free to use.
 
+## Follow Us
+
+Stay connected and join the conversation:
+
+- **Reddit** — [r/ToolsArenaNET](https://www.reddit.com/r/ToolsArenaNET)
+- **YouTube** — [@toolsarenaofficial](https://www.youtube.com/@toolsarenaofficial)
+- **Pinterest** — [toolsarena](https://www.pinterest.com/toolsarena)
+- **LinkedIn** — [ToolsArena](https://www.linkedin.com/company/toolsarena)
+- **GitHub** — [alhadi13125/ToolsArena.NET](https://github.com/alhadi13125/ToolsArena.NET)
+
+## Editorial Standards
+
+All content on ToolsArena follows strict editorial guidelines:
+
+- **Accuracy** — Every numeric value is verifiable against authoritative sources (IUPAC, WHO, NIST, peer-reviewed textbooks)
+- **Originality** — Zero copied content. Every sentence is originally written for its specific topic
+- **EEAT compliance** — Each piece addresses all four pillars: Experience, Expertise, Authoritativeness, Trustworthiness
+- **Formatting** — Proper SI units, en dashes for parenthetical phrases, no emojis in content text
+- **Value-first** — Designed to educate and inform readers while naturally linking back to the tools
+
 ## Visit
 
 [https://toolsarena.net](https://toolsarena.net)
+
+[A large collection of free online calculators](https://toolsarena.net/all-calculators) — all run entirely in your browser, no sign-up required.
