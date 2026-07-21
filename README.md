@@ -37,7 +37,7 @@ Stay connected and join the conversation:
 - **Pinterest** — [toolsarena](https://www.pinterest.com/toolsarena)
 - **LinkedIn** — [ToolsArena](https://www.linkedin.com/company/toolsarena)
 - **GitHub** — [alhadi13125/ToolsArena.NET](https://github.com/dilawarh16/ToolsArena.NET)
-- - **GitHub** — [alhadi13125/ToolsArena.NET](https://x.com/ToolsArenaNET)
+- - **X (Twitter)** — [alhadi13125/ToolsArena.NET](https://x.com/ToolsArenaNET)
 
 ## Editorial Standards
 
@@ -53,4 +53,4 @@ All content on ToolsArena follows strict editorial guidelines:
 
 [https://toolsarena.net](https://toolsarena.net)
 
-[A large collection of free online calculators](https://toolsarena.net/all-calculators) — all run entirely in your browser, no sign-up required.
+[A large collection of free online calculators](https://toolsarena.net/all-calculators) — all run entirely in your browser, totally free.
