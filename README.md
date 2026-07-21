@@ -32,11 +32,12 @@ ToolsArena provides a comprehensive library of **100+ online calculators** acros
 
 Stay connected and join the conversation:
 
-- **Reddit** — [r/ToolsArenaNET](https://www.reddit.com/r/ToolsArenaNET)
-- **YouTube** — [@toolsarenaofficial](https://www.youtube.com/@toolsarenaofficial)
+- **Reddit** — [r/ToolsArenaNET](https://www.reddit.com/r/ToolsArenaHub)
+- **YouTube** — [@toolsarenaofficial](https://www.youtube.com/@toolsarenayt)
 - **Pinterest** — [toolsarena](https://www.pinterest.com/toolsarena)
 - **LinkedIn** — [ToolsArena](https://www.linkedin.com/company/toolsarena)
-- **GitHub** — [alhadi13125/ToolsArena.NET](https://github.com/alhadi13125/ToolsArena.NET)
+- **GitHub** — [alhadi13125/ToolsArena.NET](https://github.com/dilawarh16/ToolsArena.NET)
+- - **GitHub** — [alhadi13125/ToolsArena.NET](https://x.com/ToolsArenaNET)
 
 ## Editorial Standards
 
