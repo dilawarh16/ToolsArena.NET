@@ -52,6 +52,7 @@ All content on ToolsArena follows strict editorial guidelines:
 ## Visit
 
 [https://toolsarena.net](https://toolsarena.net)
-[https://medium.com/@dilawarh16/stop-paying-for-premium-calculators-why-i-ditched-every-app-for-a-single-bookmark-90750cc53670](Medium Article)
+[Medium Article](https://medium.com/@dilawarh16/stop-paying-for-premium-calculators-why-i-ditched-every-app-for-a-single-bookmark-90750cc53670)
+[The Core Strategy](https://dev.to/dilawarh16/what-i-learned-building-50-calculators-with-nextjs-typescript-and-a-declarative-engine-mm7)
 
 [A large collection of free online calculators](https://toolsarena.net/all-calculators) — all run entirely in your browser, totally free.
