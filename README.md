@@ -37,7 +37,7 @@ Stay connected and join the conversation:
 - **Pinterest** — [toolsarena](https://www.pinterest.com/toolsarena)
 - **LinkedIn** — [ToolsArena](https://www.linkedin.com/company/toolsarena)
 - **GitHub** — [alhadi13125/ToolsArena.NET](https://github.com/dilawarh16/ToolsArena.NET)
-- - **X (Twitter)** — [alhadi13125/ToolsArena.NET](https://x.com/ToolsArenaNET)
+- **X (Twitter)** — [alhadi13125/ToolsArena.NET](https://x.com/ToolsArenaNET)
 
 ## Editorial Standards
 
@@ -52,7 +52,9 @@ All content on ToolsArena follows strict editorial guidelines:
 ## Visit
 
 [https://toolsarena.net](https://toolsarena.net)
+
 [Medium Article](https://medium.com/@dilawarh16/stop-paying-for-premium-calculators-why-i-ditched-every-app-for-a-single-bookmark-90750cc53670)
+
 [The Core Strategy](https://dev.to/dilawarh16/what-i-learned-building-50-calculators-with-nextjs-typescript-and-a-declarative-engine-mm7)
 
 [A large collection of free online calculators](https://toolsarena.net/all-calculators) — all run entirely in your browser, totally free.
